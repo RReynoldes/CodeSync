@@ -1,8 +1,6 @@
 # CodeSync
-CodeSync: Simplifying collaboration for developers. Share repos, collaborate in real-time, contribute to open-source. User-friendly interface, version control, code review. Efficient teamwork, feedback, project tracking. Join CodeSync for seamless, high-quality code collaboration.
-# CodeSync
 
-CodeSync is a collaborative coding platform designed to simplify and enhance the collaboration experience for developers. It provides a user-friendly interface, powerful version control, and integrated code review tools. With CodeSync, developers can seamlessly share repositories, collaborate in real-time, and contribute to open-source projects.
+CodeSync: Simplifying collaboration for developers. Share repos, collaborate in real-time, contribute to open-source. User-friendly interface, version control, code review. Efficient teamwork, feedback, project tracking. Join CodeSync for seamless, high-quality code collaboration.
 
 ## Features
 
@@ -44,5 +42,8 @@ CodeSync is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE
 
 ## Contact
 
-If you have any questions or feedback, feel free to reach out to us at [email address].
+If you have any questions or feedback, feel free to reach out to us at rreynoldes@gmail.com.
 
+## Authors
+
+- Roger Reynoldes (@RReynoldes)
